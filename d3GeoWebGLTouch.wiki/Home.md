@@ -1,5 +1,5 @@
 ## Tutorials
-* [How I learned Backbone.js, Three.js & GLSL in one week](http://blog.greweb.fr/2012/07/how-i-learned-backbone-js-three-js-glsl-in-one-week/)
+* How I learned [Backbone.js, Three.js & GLSL](http://blog.greweb.fr/2012/07/how-i-learned-backbone-js-three-js-glsl-in-one-week/) in one week
 
 ## Performance
 * [improve SVG rendering performance ](http://mapbox.com/osmdev/2012/11/20/getting-serious-about-svg/) with translate3d and having rounded values for svg path data
