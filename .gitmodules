@@ -1,0 +1,3 @@
+[submodule "d3GeoWebGLTouch.wiki"]
+	path = d3GeoWebGLTouch.wiki
+	url = git://github.com/cpietsch/d3GeoWebGLTouch.wiki
