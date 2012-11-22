@@ -1,4 +1,4 @@
 d3GeoWebGLTouch
 ===============
 
-in progress
+https://github.com/cpietsch/d3GeoWebGLTouch/wiki
